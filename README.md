@@ -12,25 +12,25 @@ The structure of the header files were provided by the instructor, with the func
 The cpp files were made from scratch.
 
 
-lab2_drones_manager.hpp 
+# lab2_drones_manager.hpp 
 
 -creates the structure of a DroneRecord (each drone object will be an instance of this) in the protected section of the DronesManager class
 
 -instantiates all of the functions (written in lab2_drones_manager.cpp) in the public section of the class
 
 
-lab2_drones_manager.cpp
+# lab2_drones_manager.cpp
 
 -implements all of the methods needed for the DronesManager class including constructor, destructor,
  comparison operator, as well as the accesor and mutator functions needed to preperly view and modify elements of the data structure  
  
  
-lab2_drones_manager_test.hpp
+# lab2_drones_manager_test.hpp
 
 -header file with a class containing a variety of tests that test the methods of the DronesManager class
 
 
-lab2_main.cpp
+# lab2_main.cpp
 
 -main function that runs all of the tests against the DronesMangaer class and returns the results of the tests
 
