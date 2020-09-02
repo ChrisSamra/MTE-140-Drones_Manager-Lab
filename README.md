@@ -15,7 +15,6 @@ The cpp files were made from scratch.
 # lab2_drones_manager.hpp 
 
 -creates the structure of a DroneRecord (each drone object will be an instance of this) in the protected section of the DronesManager class
-
 -instantiates all of the functions (written in lab2_drones_manager.cpp) in the public section of the class
 
 
